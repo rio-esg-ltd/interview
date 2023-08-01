@@ -27,7 +27,7 @@ include Like and Dislike buttons with the requirements outlined below.
     4. Clicking the **Like** button whose associated **Dislike** button has already been clicked should:
 
         - Increase the number of displayed likes by 1.
-        - Add the "liked" class to the **Like** `<button>` element.
+        - Add the `"liked"` class to the **Like** `<button>` element.
         - Decrease the number of displayed dislikes by 1.
         - Remove the `"disliked"` class from the **Dislike** `<button>` element.
 
@@ -36,8 +36,8 @@ include Like and Dislike buttons with the requirements outlined below.
     1. The component should render a **Dislike** button:
 
         - The button should have the `"dislike-button"` class.
-        - The _initial_ number of dislikes should be set to 100.
-        - The text displayed in the **Dislike** button should indicate the number of dislikes in the format `Dislikes | 100`.
+        - The _initial_ number of dislikes should be set to 25.
+        - The text displayed in the **Dislike** button should indicate the number of dislikes in the format `Dislikes | 25`.
         - The number of dislikes should be wrapped in a `<span>` element with the `className` set to `"dislikes-count"`.
 
     2. Clicking the **Dislike** button should:
