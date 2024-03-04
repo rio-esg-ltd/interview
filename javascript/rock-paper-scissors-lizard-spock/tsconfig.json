@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "rootDir": "."
+    },
+    "include": ["**/*.ts", "src/**/*.tsx"],
+    "exclude": ["node_modules"]
+  }
+  
