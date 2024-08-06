@@ -1,0 +1,18 @@
+{
+  "name": "@interview/promise-all-polyfill",
+  "version": "1.0.0",
+  "description": "rock-paper-scissors-lizard-spock",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rio-esg-ltd/interview.git"
+  },
+  "author": "Rio ESG Ltd. <hello@rio.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rio-esg-ltd/interview/issues"
+  },
+  "homepage": "https://github.com/rio-esg-ltd/interview#readme"
+}
